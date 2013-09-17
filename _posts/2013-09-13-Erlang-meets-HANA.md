@@ -14,7 +14,7 @@ In this inaugural blog post we'll demonstrate how to connect [Erlang][erlang] an
 
 You have successfully deployed an EC2 instance with [SAP HANA One][hana_one_setup].
 
-![SAP HANA One Status](/assets/hana/HANA_One_Status.png)
+![SAP HANA One Status]({{ site.url }}/assets/hana/HANA_One_Status.png)
 
 ### Erlang
 
@@ -30,7 +30,7 @@ weppner:~$ sudo aptitude install libaio unixodbc
 
 Copy the download URL for your platform from the SAP HANA One Downloads section.
 
-![SAP HANA One Download Section](/assets/hana/HANA_One_Downloads.png)
+![SAP HANA One Download Section]({{ site.url }}/assets/hana/HANA_One_Downloads.png)
 
 {% highlight bash %}
 weppner:~/hana$ wget https://your_instance.compute.amazonaws.com/downloads/client/Rev62ClientLinux86_64.zip --no-check-certificate

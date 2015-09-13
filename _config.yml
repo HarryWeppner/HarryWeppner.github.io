@@ -2,3 +2,5 @@ pygments: true
 name: Erlbits
 description: Erlang Tidbits
 url: http://erlbits.org
+gems:
+  - jekyll-feed

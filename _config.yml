@@ -1,4 +1,4 @@
-pygments: true
+highlighter: pygments
 name: Erlbits
 description: Erlang Tidbits
 url: http://erlbits.org

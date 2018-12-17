@@ -5,3 +5,7 @@ description: Erlang Tidbits
 url: http://erlbits.org
 gems:
   - jekyll-feed
+title: Erlbits
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky

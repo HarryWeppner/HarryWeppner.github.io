@@ -1,11 +1,11 @@
-highlighter: pygments
-author: Harry Weppner
 name: Erlbits
+author: Harry Weppner
 description: Erlang Tidbits
 url: http://erlbits.org
-gems:
+plugins:
   - jekyll-feed
 title: Erlbits
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-dinky
+highlighter: rouge

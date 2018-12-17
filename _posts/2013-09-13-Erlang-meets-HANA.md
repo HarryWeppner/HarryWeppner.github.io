@@ -159,7 +159,7 @@ CHAR_AS_UTF8=true
 
 Let's create an Erlang module `hana_marries_erlang.erl` to demonstrate how to connect and issue an SQL statement using Erlang's [odbc module](http://www.erlang.org/doc/man/odbc.html)
 
-{% highlight erlang linenos %}
+{% highlight erlang %}
 -module(hana_marries_erlang).
 -export([connect/0, disconnect/1, command/2]).
 
